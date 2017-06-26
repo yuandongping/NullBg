@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NullBgLibrary</string>
+
+    <string name="no_missions">Sem Miss?es</string>
+    <string name="not_save_missions">Mensagem n?o guardada, vamos pressionar \ n você as últimas notícias.</string>
+</resources>

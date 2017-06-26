@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:text="No Missions"
+        android:text="@string/no_missions"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:textStyle="bold"/>
@@ -50,7 +50,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:gravity="center"
-        android:text="No saved message, we will push \n you the latest news."
+        android:text="@string/not_save_missions"
         android:textColor="@android:color/black"/>
 
     <yuandp.nullbg.library.view.MountainView
